@@ -1,5 +1,7 @@
-/* This is my first microcontroller project using the arduino R3 board  it
-its purpose is to blink the built in LED*/
+/* This is my first project in the exciting world of microcontrollers and embedded computing. This code runs the same test that the Arduino development 
+team uses to verify the functionality of the board before it is shipped out. 
+It is a simple program that blinks the built in LED connected to pin 13 by turning it on and off every 1 second. 
+Demonstration is on my YouTube channel listed in the readme file. */
 
 //attatches specific pin to project variable
 int led = 13; //assigns pin 13 (built in LED) as led
